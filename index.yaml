@@ -3,23 +3,23 @@ entries:
   payments:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-10-08T14:37:56.536065688Z"
+    created: "2025-10-08T14:43:31.177832877Z"
     description: A Helm chart for Kubernetes
     digest: 1bf4e14ef7ac07070bc0c0c810081ef2dcbcb1c33cd48c025dd82d85a4457a11
     name: payments
     type: application
     urls:
-    - payments-0.1.0.tgz
+    - https://sanjeevsekar.github.io/helm-repo/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-10-08T14:37:56.536269989Z"
+    created: "2025-10-08T14:43:31.178115189Z"
     description: A Helm chart for Kubernetes
     digest: 1e848868208d1b62637cd95ba2e683586f2b8be80344c868fd96e01b30a954c5
     name: shipping
     type: application
     urls:
-    - shipping-0.1.0.tgz
+    - https://sanjeevsekar.github.io/helm-repo/shipping-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-08T14:37:56.535761617Z"
+generated: "2025-10-08T14:43:31.177439944Z"
